@@ -1,0 +1,36 @@
+#div1{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/853/260/984/blue-fractal-art-dark-blue-symmetry-wallpaper-preview.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+#h2{
+    margin-left: 20%;
+    
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  #rimg{
+    margin-left: 30%;
+  }
