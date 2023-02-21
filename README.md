@@ -1,0 +1,2 @@
+# MusicStore
+full stack project
